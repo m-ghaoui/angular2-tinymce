@@ -7,7 +7,7 @@ import 'tinymce/tinymce.min';
 
 declare var tinymce: any;
 
-import 'tinymce/themes/modern/theme';
+import 'tinymce/themes/silver/theme';
 import 'tinymce/plugins/link/plugin.js';
 import 'tinymce/plugins/paste/plugin.js';
 import 'tinymce/plugins/table/plugin.js';
